@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.camden.rssviewer4"
+        versionCode="10" 
+        version   = "4.0.0">
+
+
+
+    <name>RSS Viewer</name>
+
+    <description>
+        A simple RSS Viewer. 
+    </description>
+
+    <author href="http://www.raymondcamden.com" email="raymondcamden@gmail.com">
+        Raymond Camden
+    </author>
+
+    <icon src="icons/Feed_128x128.png" />
+
+</widget>
